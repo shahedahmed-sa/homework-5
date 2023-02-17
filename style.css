@@ -1,0 +1,80 @@
+.header{
+    height: 100px;
+    background-color: red;
+    text-align: center;
+}
+.container{
+    overflow: hidden;
+    
+}
+.blog{
+    float: left;
+    width:50%;
+    height:200px;
+    background-color: green;
+    text-align: center;
+}
+.contact{
+    float: right;
+    width: 50%;
+    height: 200px;
+    background-color: blue;
+    text-align: center;
+}
+
+.single{
+width: 33.33%;
+height: 100px;
+float: left;
+text-align: center;
+}
+
+.content1{
+    background-color: yellow;
+   
+}
+.content2{
+    background-color: teal;
+    
+}
+.content3{
+    background-color: aqua;
+    
+}
+
+.footer{
+    height: 100px;
+    background-color: rgb(153, 51, 51);
+    text-align: center;
+}
+
+
+
+.intro{
+    background-color: yellow;
+    
+}
+
+#firstname {
+    background-color: yellow;
+  }
+
+  * {
+    background-color: rgb(0, 217, 255);
+  }
+
+  p {
+    background-color: yellow;
+  }
+
+  p.intro {
+    background-color: yellow;
+  }
+
+  h2, p {
+    background-color: yellow;
+  }
+
+  div > p {
+    background-color: yellow;
+  }
